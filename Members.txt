@@ -1,6 +1,12 @@
 LIST OF MEMBERS FOR TEAM 23
  
 MEMBER 1: Leonard Chan
+
+Brief introduction
+ 
+Role in project: team leader
+ 
+Preferred branch of engineering: Chemical
  
 MEMBER 2: Heon Theng Soon
  
