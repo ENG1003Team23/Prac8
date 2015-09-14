@@ -5,4 +5,10 @@ MEMBER 1: Leonard Chan
 MEMBER 2: Heon Theng Soon
  
 MEMBER 3: Lai Yin Yit
+
+Brief introduction
+ 
+Role in project: team member
+ 
+Preferred branch of engineering: electrical and computer system
  
